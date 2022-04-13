@@ -5,7 +5,7 @@
 *Description: main - Prints a random numbber and states whether
 *it prints a positive or negative or a zero
 *
-*Return : Always 0.
+*Return : Always 0 (success)
 */
 
 int main(void)
