@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - Prints a random numbber and states whether
+*Description: main - Prints a random numbber and states whether
 *it prints a positive or negative or a zero
 *
 *Return : Always 0.
