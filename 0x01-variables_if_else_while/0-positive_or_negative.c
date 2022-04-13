@@ -6,7 +6,7 @@
 *it prints a positive or negative or a zero
 *
 *Return : Always 0 if successful
-*/
+**/
 
 int main(void)
 {
