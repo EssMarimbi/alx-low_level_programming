@@ -3,14 +3,13 @@
 #include <stdio.h>
 
 /*
-* main - Prints a number n and its last digit along with whether its
-* greater than 5, is 0 or less than 6 and not 0
+*main - prints a number and its last digit along with whether its
+*last digit is 0, greater than 5 or less than 6 and not 0
 *
-* Return: 0 if successful
+*Return: 0 if successful
 */
 
-int main(void)
-  
+int main(void)  
 {
 int n;
 srand(time(0));
