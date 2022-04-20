@@ -1,7 +1,8 @@
 #include "main.h"
 #include <string.h>
+
 /**
-* strlen - measures the length of a string
+* _strlen - measures the length of a string
 * @s: input
 * Return: 0 if successful
 */
