@@ -2,7 +2,7 @@
 /**
 * _puts - prints a string then a new line
 * @str: string to print
-*Return: 0 if successful
+*Return: nothing
 */
 
 void _puts(char *str)
@@ -13,3 +13,4 @@ for (i = 0; (str + i) ! = 0; i++)
 _putchar(str[i]);
 }
 _putchar('\n');
+}
