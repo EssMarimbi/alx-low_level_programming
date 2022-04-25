@@ -20,4 +20,4 @@ _putchar(s[i]);
 i--;
 }
 _putchar('\n');
-}_  
+}
